@@ -1,4 +1,7 @@
 # Gas-Cylinder-level-Monitor
+
+The code for this project is commented throughout to aid the understanding of its operation.
+
 This project was created out of the need to monitor the amount of gas left in the cylinders at my caravan but it could be adapted to many other requirements 9patio heaters, animal feed store etc etc - basically anything that can be measured by weight (max is approx 200Kg with code changes).
 I have used a Wemos D1 Mini micro controller and a 1.8" TFT display to provide a visual representation of the gas level.
 
@@ -17,3 +20,4 @@ Required libraries are...
 #include <ESP8266WebServer.h> // for the AP webserver
 
 The complete project build can be found on YouTube (XXXXX)
+The .STL files are for the 3D printed case used in the YouTube video

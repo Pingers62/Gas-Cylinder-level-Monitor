@@ -19,5 +19,5 @@ Required libraries are...
 #include <ESP8266WiFi.h> // for the AP webserver
 #include <ESP8266WebServer.h> // for the AP webserver
 
-The complete project build can be found on YouTube (XXXXX)
+The complete project build can be found on YouTube (https://www.youtube.com/watch?v=kDsmYCYtwlo&t=710s)
 The .STL files are for the 3D printed case used in the YouTube video
